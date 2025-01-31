@@ -28,3 +28,4 @@ jobs:
     - name: Run Tests
       run: |
         python Portfolio/manage.py test
+        python Portfolio/manage.py runserver
