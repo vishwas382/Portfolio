@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23cd4848-e718-47f4-bc39-47bf0d25dc54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/self.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/app/fixture/fixture.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/app/template/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/project_images/homogeneous-database.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/css/vendor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/about-photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/about-photo@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/icons/icon-close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/icons/icon-quote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/icons/icon-tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/fuji.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/fuji@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-fuji.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-lamp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-minimalismo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-rucksack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-sanddunes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-skaterboy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/lamp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/lamp@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/minimalismo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/minimalismo@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/rucksack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/rucksack@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/sanddunes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/sanddunes@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/skaterboy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/skaterboy@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/sample-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/wheel-1000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/wheel-2000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/wheel-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/static/styles.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2sLKa7u0n9CiOegXFfYylepEC7T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/self/Portfolio"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\self\Portfolio" />
+      <recent name="E:\self\Portfolio\app\template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\self\Portfolio\project_images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23cd4848-e718-47f4-bc39-47bf0d25dc54" name="Changes" comment="" />
+      <created>1738229475652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738229475652</updated>
+    </task>
+    <servers />
+  </component>
+</project>

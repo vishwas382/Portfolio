@@ -1,0 +1,58 @@
+[
+  {
+    "model": "app.project",
+    "pk": 1,
+    "fields": {
+      "title": "Distributed System",
+      "image": "project_images/homogeneous-database.webp",
+      "description": "Created a program that simulates a distributed system where different types of data (Users, Orders, Products) are stored in different SQLite databases...",
+      "link": "https://github.com/vishwas382/Projects/tree/604c915d80f1b097d8d33b6281f0437e601f1e29/distributed_system",
+      "type": "Web App"
+    }
+  },
+  {
+    "model": "app.documents",
+    "pk": 1,
+    "fields": {
+      "name": "CPP training",
+      "provider": "spoken tutorial",
+      "link": "https://drive.google.com/file/d/1WtiSnzF8aXRes5s-wnXBhYignkspK99u/view?usp=drive_link"
+    }
+  },
+  {
+    "model": "app.documents",
+    "pk": 2,
+    "fields": {
+      "name": "Java training",
+      "provider": "spoken tutorial",
+      "link": "https://drive.google.com/file/d/1bNwGIOn51LR-mP49_jQEr8RWulWBNVE4/view?usp=drive_link"
+    }
+  },
+  {
+    "model": "app.documents",
+    "pk": 3,
+    "fields": {
+      "name": "HTML training",
+      "provider": "spoken tutorial",
+      "link": "https://drive.google.com/file/d/10ACQDmgpxoZ7Xefra8aayyg-yyguOF5z/view?usp=drive_link"
+    }
+  },
+  {
+    "model": "app.documents",
+    "pk": 4,
+    "fields": {
+      "name": "Python Django - The Practical Guide",
+      "provider": "Udemy",
+      "link": "https://drive.google.com/file/d/10S3TJJHsHpblslN3VXEwBIT467k8jrpJ/view?usp=drive_link"
+    }
+  },
+  {
+    "model": "app.documents",
+    "pk": 5,
+    "fields": {
+      "name": "Data Science for Engineers",
+      "provider": "NPTEL",
+      "link": "https://drive.google.com/file/d/1u67olmwqQOmHlNORSsTIrQHlqwwUJRrH/view?usp=drive_link"
+    }
+  }
+]
