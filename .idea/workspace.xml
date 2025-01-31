@@ -5,67 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23cd4848-e718-47f4-bc39-47bf0d25dc54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/self.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/app/fixture/fixture.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/app/template/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/project_images/homogeneous-database.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/css/vendor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/about-photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/about-photo@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/avatars/user-08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/icons/icon-close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/icons/icon-quote.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/icons/icon-tag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/fuji.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/fuji@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-fuji.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-minimalismo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-rucksack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-sanddunes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/gallery/g-skaterboy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/lamp@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/minimalismo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/minimalismo@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/rucksack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/rucksack@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/sanddunes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/sanddunes@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/skaterboy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/portfolio/skaterboy@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/sample-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/wheel-1000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/wheel-2000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/images/wheel-500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/static/styles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vishwas382"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vishwas382/portfolio.git",
+    "accountId": "7bf96776-7bd7-4dbe-b27f-66dd71960b66"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2sLKa7u0n9CiOegXFfYylepEC7T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -95,7 +47,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/self/Portfolio"
   }
 }]]></component>
